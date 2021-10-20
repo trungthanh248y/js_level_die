@@ -1,5 +1,8 @@
 <template>
-  <LifeGoal/>
+  <div>
+    <LifeGoal/>
+    <h1>I can do it</h1>
+  </div>
 </template>
 
 <script>
